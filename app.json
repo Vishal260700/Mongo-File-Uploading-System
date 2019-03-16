@@ -1,0 +1,8 @@
+{
+  "name": "Vishal Agarwal File Upload System",
+  "description": "A Multi-media file upload with mongo and nodejs",
+  "repository": "https://github.com/Vishal260700/Mongo-File-Uploading-System",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku", "multer", "grid-fs"],
+  "image": "heroku/nodejs"
+}
